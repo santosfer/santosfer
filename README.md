@@ -3,6 +3,7 @@
 - 💬 Ask me about art, culture, movies and series.
 - 😌 Pronouns: she/her.
 - ⚡ Fun fact: did you know there's a dutch saying that goes like "elk nadeel, heb zijn voordeel"?
+- 👅 Native Portuguese and Advanced English.
 
 <div align="center">
   <a href="https://github.com/santosfer">
