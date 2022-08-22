@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/santosfer">
-  <img height="170em" width="370" src="https://github-readme-stats.vercel.app/api?username=santosfer&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosfer&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="170em" width="370" src="https://github-readme-stats.vercel.app/api?username=santosfer&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosfer&layout=compact&langs_count=7&theme=white"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Fer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
