@@ -1,6 +1,5 @@
 ### Olá, eu sou a Fernanda 👋
-- 🌱 I’m currently learning Java Script, HTML and CSS. I'm participating in the program "Empower code for women" with Alura and Zenvia. 
-- 🤔 I’m looking for help with anything I'm working on. I'm at beginning level and would love some assistance. If you have any tips, I'm willing to hear them.
+- 🌱 I’m currently learning Java Script, HTML and CSS. I'm participating in the program "Empower code for women" with Alura and Zenvia until november 2022. 
 - 💬 Ask me about art, culture, movies and series.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: did toy know there's a dutch saying that goes like "elk nadeel, heb zijn voordeel"?
