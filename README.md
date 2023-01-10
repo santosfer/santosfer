@@ -1,5 +1,5 @@
 ### Hi, I'm Fernanda 👋
-- 🌱 I’m currently learning Java Script, HTML and CSS. I'm participating in the program "Empower Code for women" with Alura and Zenvia until november 2022. 
+- 🌱 I’m currently learning JavaScript, HTML and CSS. I'm interested in learning more about backend. 
 - 💬 Ask me about art, culture, movies and series.
 - 😌 Pronouns: she/her.
 - ⚡ Fun fact: did you know there's a dutch saying that goes like "elk nadeel, heb zijn voordeel"?
