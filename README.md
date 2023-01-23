@@ -1,23 +1,19 @@
 ### Hi, I'm Fernanda 👋
-- 🌱 I’m currently learning JavaScript, HTML and CSS. I'm interested in learning more about backend. 
+- 🌱 I’m currently learning JavaScript, HTML and CSS. I'm interested in learning more about backend development. 
 - 💬 Ask me about art, culture, movies and series.
 - 😌 Pronouns: she/her.
 - ⚡ Fun fact: did you know there's a dutch saying that goes like "elk nadeel, heb zijn voordeel"?
-- 👅 Native Portuguese(br) and Advanced English.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/santosfer">
-  <img height="180em" width="370" src="https://github-readme-stats.vercel.app/api?username=santosfer&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosfer&layout=compact&langs_count=7&theme=white"/>
+  <img height="180em" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosfer&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Fer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FayMUlIWQAA89iM?format=jpg&name=900x900">
 </div>
 
-##
+
+## you can find me at
 <div>
   <a href="https://www.instagram.com/santos4fer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 <a href="https://codepen.io/fersantos" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
